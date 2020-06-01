@@ -1,0 +1,209 @@
+div.header {
+    width:1000px;
+    height:120px;
+	margin-top: 40px;
+    margin-left: auto;
+    margin-right: auto;
+	/*border: 1px solid rgb(0,0,0);*/
+	
+}
+div.logo {
+    float:right;
+    height:120px;
+    width:10%;
+	margin-right:25px;
+	/*border: 1px solid rgb(0,0,0);*/
+
+}
+div.textLogo{
+	color: #474747;
+	margin-top: 40px;
+    float:right;
+    height:80px;
+    width:30%;
+	/*border: 1px solid rgb(0,0,0);*/
+	font-size: 25px;
+	margin-left: 10px;
+	margin-right: 400px;
+}
+div.logo:hover {
+  transform: rotate(10deg) scale(1.2);
+}
+
+
+
+
+div.mainWindow{
+	margin-top: 20px;
+	width:1000px;
+    height:300px;
+    margin-left: auto;
+    margin-right: auto;
+	/*border: 1px solid rgb(0,0,0);*/
+}
+div.logoMainWindow{ 
+    float:left;
+    height:300px;
+    width:30%;
+	/*border: 1px solid rgb(0,0,0);*/
+
+}
+div.textLogoMainWindow{
+    float:left;
+    height:300px;
+    width:69%;
+	/*border: 1px solid rgb(0,0,0);*/
+	font-size: 25px;
+}
+div.logoMainWindow:hover {
+  transform: rotate(10deg) scale(1.2);
+}
+
+
+
+
+div.secondWindow{
+	margin-top: 20px;
+	width:1000px;
+    height:300px;
+    margin-left: auto;
+    margin-right: auto;
+	/*border: 1px solid rgb(0,0,0);*/
+}
+div.logoSecondWindow{ 
+    float:right;
+    height:300px;
+    width:30%;
+	margin-right:50px;
+	/*border: 1px solid rgb(0,0,0);*/
+
+}
+div.textLogoSecondWindow{
+    float:right;
+    height:300px;
+    width:60%;
+	/*border: 1px solid rgb(0,0,0);*/
+	font-size: 25px;
+}
+div.logoSecondWindow:hover {
+  transform: rotate(2deg) scale(1.1);
+}
+mark {
+  background: #FFFFFF;
+  color: #989898;
+}
+
+
+
+div.thirdWindow{
+	margin-top: 20px;
+	width:1000px;
+    height:300px;
+    margin-left: auto;
+    margin-right: auto;
+	/*border: 1px solid rgb(0,0,0);*/
+}
+div.logoThirdWindow{ 
+    float:left;
+    height:300px;
+    width:30%;
+	/*border: 1px solid rgb(0,0,0);*/
+
+}
+div.textLogoThirdWindow{
+    float:left;
+    height:300px;
+    width:69%;
+	/*border: 1px solid rgb(0,0,0);*/
+	font-size: 25px;
+}
+div.logoThirdWindow:hover {
+  transform: rotate(2deg) scale(1.2);
+}
+
+
+/*Подвал*/
+div.basement{
+	margin-top: 20px;
+	width:1000px;
+    height:500px;
+    margin-left: auto;
+    margin-right: auto;
+	/*border: 1px solid rgb(0,0,0);*/
+}
+div.links{
+	float:right;
+    height:500px;
+    width:25%;
+	/*border: 1px solid rgb(0,0,0);*/
+}
+div.description{
+	float:left;
+    height:500px;
+    width:53%;
+	/*border: 1px solid rgb(0,0,0);*/
+}
+
+
+
+div.info{
+	margin-top: 5px;
+	width: 600px;
+    height:40px;
+	margin-left: 150px;
+    margin-right: auto;
+	font-size: 25px;
+	/*border: 1px solid rgb(0,0,0);*/
+}
+
+div.basement1Window{
+	margin-top: 0px;
+	width:1000px;
+    height:100px;
+    margin-left: auto;
+    margin-right: auto;
+	/*border: 1px solid rgb(0,0,0);*/
+}
+div.logoBasement1Window{ 
+    float:right;
+    height:100px;
+    width:10%;
+	/*border: 1px solid rgb(0,0,0);*/
+    margin-right:20px;
+}
+div.textLogoBasement1Window{
+    float:right;
+	margin-top:35px;
+    height:65px;
+    width:80%;
+	/*border: 1px solid rgb(0,0,0);*/
+	font-size: 25px;
+}
+div.logoBasement1Window:hover {
+  transform: scale(1.1);
+}
+
+
+
+.back{
+	background-color: #FFFFFF;
+	height:50px;
+    width:250px;
+	margin-top: 10px;
+	margin-left: 80px;
+	font-size:20px;
+	/*border: 1px solid rgb(0,0,0);*/
+}
+a{
+	color: #4284D0;
+	font-size:25px;
+}
+a:hover{
+	color: #000000;
+}
+
+
+#test{
+	color: #000000;
+	font-size:25px;
+}
